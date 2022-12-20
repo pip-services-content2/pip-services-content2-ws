@@ -1,0 +1,29 @@
+#!/usr/bin/env pwsh
+
+git clone git@github.com:pip-services-content2/service-tips-node.git
+git clone git@github.com:pip-services-content2/service-tags-node.git
+git clone git@github.com:pip-services-content2/service-quotes-node.git
+git clone git@github.com:pip-services-content2/service-msgtemplates-node.git
+git clone git@github.com:pip-services-content2/service-microfrontends-node.git
+git clone git@github.com:pip-services-content2/service-imagesets-node.git
+git clone git@github.com:pip-services-content2/service-help-node.git
+git clone git@github.com:pip-services-content2/service-guides-node.git
+git clone git@github.com:pip-services-content2/service-files-node.git
+git clone git@github.com:pip-services-content2/service-emailtemplates-node.git
+git clone git@github.com:pip-services-content2/service-dashboards-node.git
+git clone git@github.com:pip-services-content2/service-attachments-node.git
+git clone git@github.com:pip-services-content2/service-applications-node.git
+git clone git@github.com:pip-services-content2/facade-content-node.git
+git clone git@github.com:pip-services-content2/client-tips-node.git
+git clone git@github.com:pip-services-content2/client-tags-node.git
+git clone git@github.com:pip-services-content2/client-quotes-node.git
+git clone git@github.com:pip-services-content2/client-msgtemplates-node.git
+git clone git@github.com:pip-services-content2/client-microfrontends-node.git
+git clone git@github.com:pip-services-content2/client-imagesets-node.git
+git clone git@github.com:pip-services-content2/client-help-node.git
+git clone git@github.com:pip-services-content2/client-guides-node.git
+git clone git@github.com:pip-services-content2/client-files-node.git
+git clone git@github.com:pip-services-content2/client-emailtemplates-node.git
+git clone git@github.com:pip-services-content2/client-dashboards-node.git
+git clone git@github.com:pip-services-content2/client-attachments-node.git
+git clone git@github.com:pip-services-content2/client-applications-node.git
