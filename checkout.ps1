@@ -27,3 +27,4 @@ git clone git@github.com:pip-services-content2/client-emailtemplates-node.git
 git clone git@github.com:pip-services-content2/client-dashboards-node.git
 git clone git@github.com:pip-services-content2/client-attachments-node.git
 git clone git@github.com:pip-services-content2/client-applications-node.git
+git clone git@github.com:pip-services-content2/client-msgtemplates-go.git
